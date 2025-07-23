@@ -107,8 +107,6 @@ python analysis.py
 
 ---
 
-## **Example Output**
-
 ## **Screenshots**
 
 ### NDVI Trend Plot
@@ -119,6 +117,7 @@ python analysis.py
 
 ### Carbon Stock Categorization
 ![Carbon Stock Map](https://github.com/Bee-pixel-bo/carbon-stock-forecasting/blob/main/Screenshot%202025-07-23%20101722.png)
+
 
 ---
 
