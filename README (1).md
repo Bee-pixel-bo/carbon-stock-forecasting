@@ -109,9 +109,16 @@ python analysis.py
 
 ## **Example Output**
 
-- Time series plot of NDVI by site  
-- Future NDVI prediction curves (2025–2030)  
-- Categorized carbon stock map with color legend
+## **Screenshots**
+
+### NDVI Trend Plot
+![NDVI Trend](https://github.com/Bee-pixel-bo/carbon-stock-forecasting/blob/main/Screenshot%202025-07-23%20101702.png)
+
+### Regression Model Predictions
+![Regression Predictions](https://github.com/Bee-pixel-bo/carbon-stock-forecasting/blob/main/Screenshot%202025-07-23%20101639.png)
+
+### Carbon Stock Categorization
+![Carbon Stock Map](https://github.com/Bee-pixel-bo/carbon-stock-forecasting/blob/main/Screenshot%202025-07-23%20101722.png)
 
 ---
 
